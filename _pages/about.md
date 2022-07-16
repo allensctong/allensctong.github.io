@@ -15,18 +15,18 @@ My name is Shuaicheng (Allen) Tong. I am a rising junior at University of Califo
 
 Coursework
 ======
-Optimization
-Applied Numerical Computing
-Mathematical Modeling
-Mathematical Methods of Data Theory
-Numerical Analysis
-Probability Theory
-Mathematical Statistics
-Data Analysis and Regression
-Real Analysis
-Proof-based Linear Algebra
-Objected-oriented Programming and Data Structures
-Statistical Computing
+* Optimization
+* Applied Numerical Computing
+* Mathematical Modeling
+* Mathematical Methods of Data Theory
+* Numerical Analysis
+* Probability Theory
+* Mathematical Statistics
+* Data Analysis and Regression
+* Real Analysis
+* Proof-based Linear Algebra
+* Objected-oriented Programming and Data Structures
+* Statistical Computing
 
 
 
