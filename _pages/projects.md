@@ -18,5 +18,5 @@ author_profile: true
 
  <!-- Projects
  ====== -->
- * 06/2022: I am participating in [Emory University Computational Math REU](http://www.math.emory.edu/site/cmds-reuret/summer2022/) working on the project "Fast Training of Implicit Networks with Applications in Inverse Problems" advised by [Dr. Samy Wu Fung](https://swufung.github.io/).
+ * I am a part of [DataRes](https://datares.github.io/#/), a premier data science club at UCLA. I am a member of the [research](https://datares.github.io/#/research) team, where we work on [graph neural networks](https://github.com/kuanhenglin/datares-project). I am also on the [consulting](https://datares.github.io/#/consulting) team, performing [data analysis](https://github.com/str-racksucla) for UCLA Athletics.
  
