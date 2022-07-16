@@ -12,8 +12,11 @@ My name is Shuaicheng (Allen) Tong. I am a rising junior at University of Califo
  well as their applications in supply chain management. I am passionate about building faster algorithms and more interpretable models using 
  rigorous mathematical techniques.
 
+ Outside of math, I spend my free time working out, visitng museums, and watching Star Wars shows.
+
 Coursework
 ======
+Mathematics/Applied Mathematics
 * Optimization
 * Applied Numerical Computing
 * Mathematical Modeling
@@ -24,6 +27,8 @@ Coursework
 * Data Analysis and Regression
 * Real Analysis
 * Proof-based Linear Algebra
+
+Computer Science & Programming
 * Objected-oriented Programming and Data Structures
 * Statistical Computing
 
