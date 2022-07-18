@@ -18,5 +18,5 @@ author_profile: true
 
  <!-- Projects
  ====== -->
- * I am a part of [DataRes](https://datares.github.io/#/), a premier data science club at UCLA. I am a member of the [research](https://datares.github.io/#/research) team, where we work on [graph neural networks](https://github.com/kuanhenglin/datares-project). I am also on the [consulting](https://datares.github.io/#/consulting) team, performing [data analysis](https://github.com/str-racksucla) and deriving insights for the UCLA Athletics teams competing in NCAA.
+ * I am a part of [DataRes](https://datares.github.io/#/), a premier data science club at UCLA. I am a member of the [research](https://datares.github.io/#/research) team, where we work on graph neural networks. I am also on the [consulting](https://datares.github.io/#/consulting) team, performing data analysis and deriving insights for the UCLA Athletics teams competing in NCAA.
  
