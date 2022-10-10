@@ -18,8 +18,7 @@ Coursework
 ======
 Mathematics/Applied Mathematics
 * Optimization
-* Applied Numerical Computing
-* Mathematical Modeling
+* Network Science & Dynamical Systems
 * Mathematical Methods of Data Theory
 * Numerical Analysis
 * Probability Theory
