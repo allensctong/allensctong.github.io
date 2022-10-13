@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Allen Tong"
   avatar           : "profile_pic.jpg"
-  bio              : "Applied Mathematics Student at UCLA"
+  bio              : "Mathematics of Computation Student at UCLA"
   location         : "Los Angeles, CA"
   employer         :  UCLA
   pubmed           : 
   googlescholar    : 
-  email            : "allentong24@ucla.edu"
+  email            : "allensctong@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
