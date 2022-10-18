@@ -19,11 +19,12 @@ author_profile: true
  <!-- Projects
  ====== -->
  * For the [Emory Computational Math REU](http://www.math.emory.edu/site/cmds-reuret/summer2022/), my team used PyTorch
- [code](https://github.com/lliu58b/Jacobian-free-Backprop-Implicit-Networks) to train implicit networks for image deblurring.
- We wrote a [manuscript](files/Manuscript_JFB.pdf), presented a [poster](files/REURET_Poster_Team_JFB.pdf), and created
+ [code](https://github.com/lliu58b/Jacobian-free-Backprop-Implicit-Networks) to train implicit neural networks for image deblurring.
+ We wrote a [manuscript](https://drive.google.com/file/d/1pbrVO5L-czau5Pfb77WPNoQpbT5CrTK7/view?usp=sharing), 
+ presented a [poster](https://drive.google.com/file/d/1Dc9T6hDFlWyob-A39Vw9cXmOqXXKgo5Z/view?usp=sharing), and created
  a [website](https://www.math.emory.edu/site/links/cmds-reuret/projects/2022-implicit/?syt=Ptcg). We are continuing numerical
- experiments with a preprint in progress.
- 
+ experiments, and a preprint is in progress.
+
  * I am a part of [DataRes](https://datares.github.io/#/), a premier data science club at UCLA. 
  I am a member of the [research](https://datares.github.io/#/research) team, where we work on graph neural networks. 
  Here is a [write-up](https://ucladatares.medium.com/deep-learning-on-graphs-integration-of-dgl-and-neo4j-dbms-for-social-analysis-321563eb900f)
