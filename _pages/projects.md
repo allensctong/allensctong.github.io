@@ -25,10 +25,10 @@ author_profile: true
  a [website](https://www.math.emory.edu/site/links/cmds-reuret/projects/2022-implicit/?syt=Ptcg). We are continuing numerical
  experiments, and a preprint is in progress.
 
- * I am a part of [DataRes](https://datares.github.io/#/), a premier data science club at UCLA. 
- I am a member of the [research](https://datares.github.io/#/research) team, where we work on graph neural networks. 
+ * I am a part of [DataRes](https://ucladatares.com/), a premier data science club at UCLA. 
+ I am a member of the [research](https://ucladatares.com/research) team, where we work on graph neural networks. 
  Here is a [write-up](https://ucladatares.medium.com/deep-learning-on-graphs-integration-of-dgl-and-neo4j-dbms-for-social-analysis-321563eb900f)
- of our most recent work. I am also on the [consulting](https://datares.github.io/#/consulting) team, 
+ of our most recent work. I am also on the [consulting](https://ucladatares.com/consulting) team, 
  performing data analysis and deriving insights for the UCLA Athletics teams competing in NCAA. Due to agreements with the
  UCLA Athletics Department, our work is confidential.
  
