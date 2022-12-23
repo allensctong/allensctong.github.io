@@ -20,7 +20,7 @@ author_profile: true
  ====== -->
  * For the [Emory Computational Math REU](http://www.math.emory.edu/site/cmds-reuret/summer2022/), my team used PyTorch
  [code](https://github.com/lliu58b/Jacobian-free-Backprop-Implicit-Networks) to train implicit neural networks for image deblurring.
- We wrote a [manuscript](files/Manuscript_JFB.pdf), 
+ We wrote a [manuscript](https://drive.google.com/file/d/1pbrVO5L-czau5Pfb77WPNoQpbT5CrTK7/view?usp=sharing), 
  presented a [poster](https://drive.google.com/file/d/1Dc9T6hDFlWyob-A39Vw9cXmOqXXKgo5Z/view?usp=sharing), and created
  a [website](https://www.math.emory.edu/site/links/cmds-reuret/projects/2022-implicit/?syt=Ptcg). We are continuing numerical
  experiments, and a preprint is in progress.
