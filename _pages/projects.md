@@ -18,6 +18,8 @@ author_profile: true
 
  <!-- Projects
  ====== -->
+ * Advised by Prof. [Mason Porter](https://www.math.ucla.edu/~mason/), I led a course project Temporal Multilayer Network Analysis for Marvel Superheroes. We used supracentrality methods and the Louvain community detection algorithm to discover the most important superheroes over time. Here's the [code](https://github.com/allensctong/Math168_Project), [report](files/Math_168_Final_Report.pdf), and [presentation](files/Math 168 Presentation.pdf).
+
  * For the [Emory Computational Math REU](http://www.math.emory.edu/site/cmds-reuret/summer2022/), my team used PyTorch
  [code](https://github.com/lliu58b/Jacobian-free-Backprop-Implicit-Networks) to train implicit neural networks for image deblurring.
  We wrote a [manuscript](https://drive.google.com/file/d/1pbrVO5L-czau5Pfb77WPNoQpbT5CrTK7/view?usp=sharing), 
