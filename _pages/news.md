@@ -18,7 +18,7 @@ author_profile: true
 
  <!-- News
  ====== -->
- * 12/2022: I am a full member of [UPE](https://upe.seas.ucla.edu/requirements), computer science honor society at UCLA.
+ * 12/2022: I become a full member of [UPE](https://upe.seas.ucla.edu/requirements), computer science honor society at UCLA.
  <!-- * 10/2022: I am an inductee for [UPE](https://upe.seas.ucla.edu/requirements), computer science honor society at UCLA. -->
  * 06/2022: I am participating in [Emory University Computational Math REU](http://www.math.emory.edu/site/cmds-reuret/summer2022/) working on the project "Fast Training of Implicit Networks with Applications in Inverse Problems" advised by Prof. [Samy Wu Fung](https://swufung.github.io/).
  
