@@ -18,15 +18,19 @@ author_profile: true
 
  <!-- Projects
  ====== -->
- * I regularly update a [repository](https://github.com/allensctong/Numerical-Methods) of numerical analysis algorithms.
+ * I regularly update a [repository](https://github.com/allensctong/Numerical-Methods) of numerical analysis algorithms.  
 
- * Advised by Prof. [Mason Porter](https://www.math.ucla.edu/~mason/), I led a course project: Temporal Multilayer Network Analysis for Marvel Superheroes. We used supracentrality methods and the Louvain community detection algorithm to discover the most important superheroes over time. Here's the [code](https://github.com/allensctong/Math168_Project), [report](https://allensctong.github.io/files/Math_168_Final_Report.pdf), and [presentation](https://allensctong.github.io/files/Math 168 Presentation.pdf).
+ * Advised by Prof. [Mason Porter](https://www.math.ucla.edu/~mason/), I led a course project: Temporal Multilayer Network Analysis for Marvel 
+ Superheroes. We used supracentrality methods and the Louvain community detection algorithm to discover the most important superheroes over time. 
+ Here's the [code](https://github.com/allensctong/Math168_Project), [report](https://allensctong.github.io/files/Math_168_Final_Report.pdf), and 
+ [presentation](https://allensctong.github.io/files/Math 168 Presentation.pdf).
 
  * Advised by Prof. [Samy Wu Fung](https://swufung.github.io/), my team used PyTorch
  [code](https://github.com/lliu58b/Jacobian-free-Backprop-Implicit-Networks) to train implicit neural networks for image deblurring.
  We wrote a [manuscript](https://allensctong.github.io/files/Manuscript_JFB.pdf), 
  presented a [poster](https://allensctong.github.io/files/REURET_Poster_Team_JFB.pdf), and created
- a [website](https://www.math.emory.edu/site/links/cmds-reuret/projects/2022-implicit/?syt=Ptcg) for the [Emory Computational Math REU](http://www.math.emory.edu/site/cmds-reuret/summer2022/). We are continuing numerical
+ a [website](https://www.math.emory.edu/site/links/cmds-reuret/projects/2022-implicit/?syt=Ptcg) for the [Emory Computational Math REU](http://www.math.
+ emory.edu/site/cmds-reuret/summer2022/). We are continuing numerical
  experiments, and a preprint is in progress.
 
  * I am a part of [DataRes](https://ucladatares.com/), a premier data science club at UCLA. 
