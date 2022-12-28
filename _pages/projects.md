@@ -18,6 +18,8 @@ author_profile: true
 
  <!-- Projects
  ====== -->
+ * I regularly update a [repository](https://github.com/allensctong/Numerical-Methods) of numerical analysis algorithms.
+
  * Advised by Prof. [Mason Porter](https://www.math.ucla.edu/~mason/), I led a course project: Temporal Multilayer Network Analysis for Marvel Superheroes. We used supracentrality methods and the Louvain community detection algorithm to discover the most important superheroes over time. Here's the [code](https://github.com/allensctong/Math168_Project), [report](https://allensctong.github.io/files/Math_168_Final_Report.pdf), and [presentation](https://allensctong.github.io/files/Math 168 Presentation.pdf).
 
  * Advised by Prof. [Samy Wu Fung](https://swufung.github.io/), my team used PyTorch

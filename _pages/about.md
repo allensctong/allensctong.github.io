@@ -12,7 +12,7 @@ My name is Shuaicheng (Allen) Tong. I am a junior at University of California, L
  well as their applications in recommender systems and supply chain optimization. I am passionate about building faster algorithms and more interpretable models using 
  rigorous mathematical techniques.
 
- Outside of math, I spend my free time working out, visitng museums, and watching Star Wars shows. I volunteer at the [UCLA Statistics Club](http://statistics.ucla.edu/groups/statistics-club-at-ucla/) where I tutor mathematics and statistics courses.
+ Outside of math, I spend my free time working out, visitng museums, and watching Star Wars shows. I volunteer at the [UCLA Statistics Club](http://statistics.ucla.edu/groups/statistics-club-at-ucla/) and [Upsilon Pi Epsilon](https://upe.seas.ucla.edu/tutoring/) where I tutor mathematics, statistics, and computer science courses.
 
 Coursework
 ======
