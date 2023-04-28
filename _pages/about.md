@@ -19,16 +19,19 @@ Coursework
 Mathematics/Applied Mathematics
 * Optimization
 * Network Science & Dynamical Systems
-* Mathematical Methods of Data Theory
+* Mathematical Methods of Data Theory (Numerical Linear Algebra)
+* Mathematical Modeling
 * Numerical Analysis
 * Probability Theory
 * Mathematical Statistics
 * Data Analysis and Regression
 * Real Analysis
-* Proof-based Linear Algebra
+* Computational Linear Algebra
 
-Computer Science & Programming
-* Object-oriented Programming and Data Structures in C++
+Computer Science
+* Data Mining
+* Data Science and Machine Learning
+* Data Structures and ALgorithms in C++
 * Python for Data Science
 * Statistical Computing w/ R
 
