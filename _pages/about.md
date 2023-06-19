@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Shuaicheng (Allen) Tong. I am a junior at University of California, Los Angeles (UCLA) majoring in [Mathematics of Computation](https://ww3.math.ucla.edu/) and minoring in [Statistics](http://statistics.ucla.edu/). I am interested in machine learning and optimization, as
+My name is Shuaicheng (Allen) Tong. I am a junior at University of California, Los Angeles (UCLA) majoring in [Mathematics of Computation](https://ww3.math.ucla.edu/) and minoring in [Data Science Engineering](https://www.seasoasa.ucla.edu/datasci/) and [Statistics](http://statistics.ucla.edu/). I am interested in machine learning and optimization, as
  well as their applications in recommender systems and supply chain optimization. I am passionate about building faster algorithms and more interpretable models using 
  rigorous mathematical techniques.
 
@@ -31,7 +31,7 @@ Mathematics/Applied Mathematics
 Computer Science
 * Data Mining
 * Data Science and Machine Learning
-* Data Structures and ALgorithms in C++
+* Data Structures and Algorithms in C++
 * Python for Data Science
 * Statistical Computing w/ R
 
