@@ -25,12 +25,12 @@ Mathematics/Applied Mathematics
 * Mathematical Statistics
 * Data Analysis and Regression
 * Real Analysis
+* Complex Analysis
 * Proof-based Linear Algebra
 
 Computer Science
 * Deep Learning (Graduate Level)
 * Natural Language Processing
-* Foundations of Computer Vision
 * Database Management Systems
 * Data Mining
 * Data Science and Machine Learning
