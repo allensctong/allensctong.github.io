@@ -75,6 +75,7 @@
   width: 240000px;
   // set width only, for non-square avatars
   height: 480000px;
+  border-radius: 50%;
 
   @include breakpoint($large) {
     display: block;
