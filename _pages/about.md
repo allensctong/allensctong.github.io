@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Shuaicheng (Allen) Tong. I recently graduated from University of California, Los Angeles (UCLA) majoring in [Mathematics of Computation](https://ww3.math.ucla.edu/) and minoring in [Data Science Engineering](https://www.seasoasa.ucla.edu/datasci/). I began my academic journey with focuses on Machine Learning, Optimization, and their applications. I later delved in and became proficient in Software Engineering with specializations in Database Systems, Full-stack Development, and Networking. Bringing my skills together, I am passionate about building faster algorithms and more interpretable models using rigorous mathematical techniques.
+My name is Shuaicheng (Allen) Tong. I recently graduated from University of California, Los Angeles (UCLA) majoring in [Mathematics of Computation](https://ww3.math.ucla.edu/) and minoring in [Data Science Engineering](https://www.seasoasa.ucla.edu/datasci/). 
 
-Outside of school, I spend my free time working out, visitng museums, and watching Star Wars shows. Giving back to the community is highly important to me. During my undergraduate at UCLA, I volunteered at the [UCLA Statistics Club](http://statistics.ucla.edu/groups/statistics-club-at-ucla/) and [Upsilon Pi Epsilon](https://upe.seas.ucla.edu/tutoring/) where I tutored Mathematics, Statistics, and Computer Science courses.
+I began my academic journey with heavy focuses on Machine Learning, Optimization, and their applications. I later delved in and became proficient in Software Engineering with specializations in Database Systems, Full-stack Development, and Networking. Bringing my skills together, I am passionate about building faster algorithms and more interpretable models using rigorous mathematical techniques.
+
+Outside of school, I spend my free time working out, visitng museums, and watching Star Wars shows. Giving back to the community is highly important to me. During my undergraduate at UCLA, I volunteered at the [UCLA Statistics Club](http://statistics.ucla.edu/groups/statistics-club-at-ucla/) and [Upsilon Pi Epsilon](https://upe.seas.ucla.edu/tutoring/) where I tutored Mathematics, Statistics, and Computer Science courses. I also mentor underclassmen through clubs and LinkedIn. Feel free to reach out!
 
 Coursework
 ======
