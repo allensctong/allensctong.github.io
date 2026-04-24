@@ -18,6 +18,9 @@ author_profile: true
 
  <!-- News
  ====== -->
+ * 04/2026: Our paper [*Volt/VAR Optimization in Transmission Networks with Discrete-Control Devices*](https://arxiv.org/abs/2601.22080) is accepted at the 24th International Power Systems Computation Conference (PSCC'2026)!
+ * 12/2025: Presenting our paper [*Deep Learning-Driven Contextual Stochastic Optimization for Real-Time Order Fulfillment*](https://openreview.net/forum?id=uhF4sYW6Nd) at NeurIPS 2025 MLxOR workshop!
+ * 08/2024: I am starting as a PhD student at Georgia Tech ISyE.
  * 06/2023: I am starting a data scientist internship at the [Intact Data Lab](https://intactlab.ca/), developing data-driven solutions for the largest insurance provider in Canada.
  * 12/2022: I become a full member of [UPE](https://upe.seas.ucla.edu/requirements), computer science honor society at UCLA.
  <!-- * 10/2022: I am an inductee for [UPE](https://upe.seas.ucla.edu/requirements), computer science honor society at UCLA. -->

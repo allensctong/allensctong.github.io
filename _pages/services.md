@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "Services"
+title: "Academic Services"
 permalink: /services/
 author_profile: true
 ---
-
+* Reviewer
+    * Electric Power Systems Research (EPSR), 2025
 * Grader
     * Fall 2022
 	    * PIC 10B: Object-oriented Programming & Data Structures in C++
