@@ -10,7 +10,10 @@ redirect_from:
 
 My name is Shuaicheng (Allen) Tong. I am a second-year PhD student at Georgia Tech ISyE advised by Prof. [Pascal Van Hentenryck](https://sites.gatech.edu/pascal-van-hentenryck/). I completed my B.S. in [Mathematics of Computation](https://ww3.math.ucla.edu/) at University of California, Los Angeles (UCLA) with a minor in [Data Science Engineering](https://www.seasoasa.ucla.edu/datasci/). During my undergraduate studies, I worked with Prof. [Samy Wu Fung](https://swufung.github.io/) on deep learning for image recovery.
 
-My current research interests lie at the intersection of Machine Learning and Optimization with a focus on developing scalable methods for reliable power system operations. My work studies optimization for complex decision-making problems in power grids, including voltage control and Volt/VAR optimization, using techniques in combinatorial optimization and mixed-integer optimization. I am also interested in learning-based approaches that accelerate these optimization pipelines while preserving solution quality, feasibility, and interpretability.
+My research interests lie at the intersection of Machine Learning and Optimization, with a focus on scalable methods for reliable power grid operations. I am especially interested in:
+- **Optimization for power systems**, including voltage control and Volt/VAR optimization.
+- **Combinatorial and mixed-integer optimization** for complex grid decision-making problems.
+- **Learning-based methods** that accelerate optimization while preserving solution quality, feasibility, and interpretability.
 
 Broadly, my goal is to combine the structural guarantees of mathematical optimization with the speed and scalability of machine learning to support faster, more reliable decision-making for modern electric grids.
 
