@@ -5,6 +5,7 @@ permalink: /services/
 author_profile: true
 ---
 * Reviewer
+    * Hawaii International Conference on System Sciences (HICSS), 2026
     * IEEE Internet of Things (IoT) Journal, 2026
     * Power Systems Computation Conference (PSCC), 2025
     * Electric Power Systems Research (EPSR), 2025

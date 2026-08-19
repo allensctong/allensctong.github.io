@@ -18,6 +18,7 @@ author_profile: true
 
  <!-- News
  ====== -->
+ * 08/2026: Our paper *Improving Stability and Economic Operation in Transmission Systems through Volt/VAR Optimization* is accepted at the 60th Hawaii International Conference on System Sciences (HICSS-60)!
  * 04/2026: Our paper [*Volt/VAR Optimization in Transmission Networks with Discrete-Control Devices*](https://arxiv.org/abs/2601.22080) is accepted at the 24th International Power Systems Computation Conference (PSCC'2026)!
  * 12/2025: Presenting our paper [*Deep Learning-Driven Contextual Stochastic Optimization for Real-Time Order Fulfillment*](https://openreview.net/forum?id=uhF4sYW6Nd) at NeurIPS 2025 MLxOR workshop!
  * 08/2024: I am starting as a PhD student at Georgia Tech ISyE.
@@ -25,4 +26,3 @@ author_profile: true
  * 12/2022: I become a full member of [UPE](https://upe.seas.ucla.edu/requirements), computer science honor society at UCLA.
  <!-- * 10/2022: I am an inductee for [UPE](https://upe.seas.ucla.edu/requirements), computer science honor society at UCLA. -->
  * 06/2022: I am participating in [Emory University Computational Math REU](http://www.math.emory.edu/site/cmds-reuret/summer2022/) working on the project "Fast Training of Implicit Networks with Applications in Inverse Problems" advised by Prof. [Samy Wu Fung](https://swufung.github.io/).
- 
