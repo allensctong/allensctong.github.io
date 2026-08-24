@@ -21,7 +21,7 @@ Broadly, my goal is to combine the structural guarantees of mathematical optimiz
 
 - X. Li et al. (including **S. Tong**). [*SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks*](https://arxiv.org/abs/2602.12670). Submitted to NeurIPS 2026.
 
-- **S. Tong** and P. Van Hentenryck. *Improving Stability and Economic Operation in Transmission Systems through Volt/VAR Optimization*. The 60th Hawaii International Conference on System Sciences (HICSS-60).
+- **S. Tong** and P. Van Hentenryck. [*Improving Stability and Economic Operation in Transmission Systems through Volt/VAR Optimization*](https://arxiv.org/abs/2608.20747). The 60th Hawaii International Conference on System Sciences (HICSS-60).
 
 - **S. Tong**, M. A. Boateng, M. Tanneau, and P. Van Hentenryck. [*Volt/VAR Optimization in Transmission Networks with Discrete-Control Devices*](https://arxiv.org/abs/2601.22080). International Power Systems Computation Conference (PSCC 2026).
 
