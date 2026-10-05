@@ -8,18 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-My name is Shuaicheng (Allen) Tong. I am a second-year PhD student in Machine Learning at Georgia Tech ISyE advised by Prof. [Pascal Van Hentenryck](https://sites.gatech.edu/pascal-van-hentenryck/). I completed my B.S. in [Mathematics of Computation](https://ww3.math.ucla.edu/) at University of California, Los Angeles (UCLA) with a minor in [Data Science Engineering](https://www.seasoasa.ucla.edu/datasci/). During my undergraduate studies, I worked with Prof. [Samy Wu Fung](https://swufung.github.io/) on deep learning for image recovery.
+My name is Shuaicheng (Allen) Tong. I am a third-year PhD student in Machine Learning at Georgia Tech ISyE advised by Prof. [Pascal Van Hentenryck](https://sites.gatech.edu/pascal-van-hentenryck/). I completed my B.S. in [Mathematics of Computation](https://ww3.math.ucla.edu/) at University of California, Los Angeles (UCLA) with a minor in [Data Science Engineering](https://www.seasoasa.ucla.edu/datasci/). During my undergraduate studies, I worked with Prof. [Samy Wu Fung](https://swufung.github.io/) on deep learning for image recovery.
 
-My research lies at the intersection of Machine Learning and Optimization, with a focus on accelerating decision-making under uncertainty for large-scale power system operations. I am especially interested in:
-- **ML proxy methods** that accelerate optimization while preserving solution quality, feasibility, and interpretability.
-- **Combinatorial and mixed-integer optimization heuristics** with numerical stability and feasibility guarantees under hard constraints.
-- **Physics-aware optimization for energy systems**, including voltage control and Volt/VAR optimization for operational planning.
+My research lies at the intersection of Machine Learning and Optimization. I develop methods for making high-quality decisions under uncertainty when solving optimization problems at scale. My interests center on:
 
-Broadly, my goal is to combine the structural guarantees of mathematical optimization with the speed and scalability of machine learning to support faster, more reliable decision-making.
+- **Optimization proxies**, using machine learning to exploit problem structure and accelerate decision-making while preserving solution quality, feasibility, and interpretability.
+- **Combinatorial and mixed-integer optimization**, designing heuristics that navigate discrete decisions efficiently and reliably, with numerical stability and feasibility guarantees under hard constraints.
+- **Optimization for energy systems**, including voltage control and Volt/VAR optimization for operational planning.
+
+My goal is to contribute methodologies that combine the structure of mathematical optimization with the speed and scalability of machine learning, motivated by applications in energy and sequential decision-making.
 
 ## Publications
 
-- X. Li et al. (including **S. Tong**). [*SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks*](https://arxiv.org/abs/2602.12670). Submitted to NeurIPS 2026.
+- **S. Tong**, B. Basciftci, K. Wang, and P. Van Hentenryck. *Fusing Optimization Proxies and Reinforcement Learning for Multistage Stochastic Optimization*.
+
+- X. Li et al. (including **S. Tong**). [*SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks*](https://arxiv.org/abs/2602.12670). NeurIPS 2026.
 
 - **S. Tong** and P. Van Hentenryck. [*Improving Stability and Economic Operation in Transmission Systems through Volt/VAR Optimization*](https://arxiv.org/abs/2608.20747). The 60th Hawaii International Conference on System Sciences (HICSS-60).
 
