@@ -20,7 +20,7 @@ My goal is to contribute methodologies that combine the structure of mathematica
 
 ## Publications
 
-- **S. Tong**, B. Basciftci, K. Wang, and P. Van Hentenryck. *Fusing Optimization Proxies and Reinforcement Learning for Multistage Stochastic Optimization*.
+<!-- - **S. Tong**, B. Basciftci, K. Wang, and P. Van Hentenryck. *Fusing Optimization Proxies and Reinforcement Learning for Multistage Stochastic Optimization*. -->
 
 - X. Li et al. (including **S. Tong**). [*SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks*](https://arxiv.org/abs/2602.12670). NeurIPS 2026.
 
