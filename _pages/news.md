@@ -18,6 +18,7 @@ author_profile: true
 
  <!-- News
  ====== -->
+ * 09/2026: Our paper [*SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks*](https://arxiv.org/abs/2602.12670) is accepted at the NeurIPS 2026 Datasets & Benchmarks Track!
  * 08/2026: Our paper [*Improving Stability and Economic Operation in Transmission Systems through Volt/VAR Optimization*](https://arxiv.org/abs/2608.20747) is accepted at the 60th Hawaii International Conference on System Sciences (HICSS-60)!
  * 04/2026: Our paper [*Volt/VAR Optimization in Transmission Networks with Discrete-Control Devices*](https://arxiv.org/abs/2601.22080) is accepted at the 24th International Power Systems Computation Conference (PSCC'2026)!
  * 12/2025: Presenting our paper [*Deep Learning-Driven Contextual Stochastic Optimization for Real-Time Order Fulfillment*](https://openreview.net/forum?id=uhF4sYW6Nd) at NeurIPS 2025 MLxOR workshop!

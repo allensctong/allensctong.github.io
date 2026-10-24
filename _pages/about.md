@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Shuaicheng (Allen) Tong. I am a third-year PhD student in Machine Learning at Georgia Tech ISyE advised by Prof. [Pascal Van Hentenryck](https://sites.gatech.edu/pascal-van-hentenryck/). I completed my B.S. in [Mathematics of Computation](https://ww3.math.ucla.edu/) at University of California, Los Angeles (UCLA) with a minor in [Data Science Engineering](https://www.seasoasa.ucla.edu/datasci/). During my undergraduate studies, I worked with Prof. [Samy Wu Fung](https://swufung.github.io/) on deep learning for image recovery.
+I am a third-year PhD student in Machine Learning at Georgia Tech ISyE advised by Prof. [Pascal Van Hentenryck](https://sites.gatech.edu/pascal-van-hentenryck/). I completed my B.S. in [Mathematics of Computation](https://ww3.math.ucla.edu/) at University of California, Los Angeles (UCLA) with a minor in [Data Science Engineering](https://www.seasoasa.ucla.edu/datasci/). During my undergraduate studies, I worked with Prof. [Samy Wu Fung](https://swufung.github.io/) on deep learning for image recovery.
 
 My research lies at the intersection of Machine Learning and Optimization. I develop methods for making high-quality decisions under uncertainty when solving optimization problems at scale. My interests center on:
 
@@ -17,6 +17,13 @@ My research lies at the intersection of Machine Learning and Optimization. I dev
 - **Optimization for energy systems**, including voltage control and Volt/VAR optimization for operational planning.
 
 My goal is to contribute methodologies that combine the structure of mathematical optimization with the speed and scalability of machine learning, motivated by applications in energy and sequential decision-making.
+
+## News
+
+- **NeurIPS 2026**: [*SkillsBench*](https://arxiv.org/abs/2602.12670) accepted to the NeurIPS 2026 Datasets & Benchmarks Track.
+- **HICSS-60**: [*Improving Stability and Economic Operation in Transmission Systems through Volt/VAR Optimization*](https://arxiv.org/abs/2608.20747) accepted to the 60th Hawaii International Conference on System Sciences (HICSS-60). We propose a homotopy-based continuation method for solving mixed-integer non-convex optimization problems at scale in power systems with improved numerical stability.
+- **PSCC 2026**: [*Volt/VAR Optimization in Transmission Networks with Discrete-Control Devices*](https://arxiv.org/abs/2601.22080) accepted to the International Power Systems Computation Conference (PSCC 2026). We formulate a mixed-integer non-convex optimization problem with discrete controls for power grids and propose a scalable heuristic.
+- **NeurIPS 2025**: [*Deep Learning-Driven Contextual Stochastic Optimization for Real-Time Order Fulfillment*](https://openreview.net/forum?id=uhF4sYW6Nd) accepted at the MLxOR workshop @ NeurIPS 2025.
 
 ## Publications
 
